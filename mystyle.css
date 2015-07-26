@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+body{
+  width: 1000px;
+  margin: 0 auto;
+  }
+
+.text{
+	position: fixed;
+	top: 10px;
+	right: 10px;
+}
+
+.bg1{
+  width: 1000px;
+  height: 500px;
+  background: url(http://placehold.jp/eb3e05/ffffff/1000x500.png);
+  }
+
+.bg2{
+  width: 1000px;
+  height: 500px;
+  background: url(http://placehold.jp/e8217e/ffffff/1000x500.png);
+  }
+
+  .bg3{
+  width: 1000px;
+  height: 500px;
+  background: url(http://placehold.jp/21e8b3/ffffff/1000x500.png);
+  }
+
+  .bg4{
+  width: 1000px;
+  height: 500px;
+  background: url(http://placehold.jp/d7e821/ffffff/1000x500.png);
+  }
+
+  .bg5{
+  width: 1000px;
+  height: 500px;
+  background: url(http://placehold.jp/e86321/ffffff/1000x500.png);
+  }
